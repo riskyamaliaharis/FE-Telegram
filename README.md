@@ -7,7 +7,7 @@
     <a href="https://github.com/riskyamaliaharis/FE-Telegram/blob/main/App's%20view.JPG">Request Feature</a>
   </p>
 
-![Image Banner](App's view.JPG)
+[![image](https://www.linkpicture.com/q/Chat-App.jpg)](https://www.linkpicture.com/view.php?img=LPic600fc85c600fe484930386)
 
 ## About The Project
 
